@@ -1,0 +1,8 @@
+{
+    "env": {
+      "MYSQL_HOST": "http://localhost/",
+      "MYSQL_USER": "root",
+      "MYSQL_PASSWORD": " ",
+      "MYSQL_DATABASE": "nextjstest"
+    }
+  }
